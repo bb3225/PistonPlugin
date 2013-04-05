@@ -1,6 +1,13 @@
-*.class
+#eclipse stuff
+/.classpath
+/.project
+/.settings
 
-# Package Files #
-*.jar
-*.war
-*.ear
+#maven
+/target
+
+#vim
+*.*.sw[a-p]
+
+#gedit
+*.*~
